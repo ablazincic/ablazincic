@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **WPF, JS**
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at [-]
 
-- 📫 How to reach me **via instagram or e-mail.**
+- 📫 How to reach me : **via instagram or e-mail.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
