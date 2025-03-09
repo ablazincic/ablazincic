@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A software-engineering student in Technical school Sisak</h3>
 
-- 🔭 I’m currently working on my **Portfolio website**
+- 🔭 I’m currently working on my **graduation work, Banking app (WPF,DI,EF,PostgreSQL...)**
 
 - 🌱 I’m currently learning **WPF, JS**
 
