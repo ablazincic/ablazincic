@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **Portfolio**
 
-- 🌱 I’m currently learning **CCNA Certificate**
+- 🌱 I’m currently learning : **CCNA Certificate, Azure Fundamentals**
 
 - 👨‍💻 All of my projects are available at [-]
 
