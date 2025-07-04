@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A software-engineering student in Technical school Sisak</h3>
 
-- 🔭 I’m currently working on my **graduation assignment, Banking app (WPF,PostgreSQL...)**
+- 🔭 I’m currently working on my **Portfolio**
 
-- 🌱 I’m currently learning **WPF, JS**
+- 🌱 I’m currently learning **CCNA Certificate**
 
 - 👨‍💻 All of my projects are available at [-]
 
@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://fb.com/antonio blažinčić" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="antonio blažinčić" height="30" width="40" /></a>
 <a href="https://instagram.com/antonio.blazincic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antonio.blazincic" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ablazincic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ablazincic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
